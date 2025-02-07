@@ -1,0 +1,5 @@
+{
+  "libtncnn.so": {
+    "source": "src/mock/Libtncnn.mock.ets"
+  }
+}

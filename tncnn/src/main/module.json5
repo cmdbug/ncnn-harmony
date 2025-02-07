@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "tncnn",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "TncnnAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "TncnnAbility",
+        "srcEntry": "./ets/tncnnability/TncnnAbility.ets",
+        "description": "$string:TncnnAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:TncnnAbility_label",
+        "startWindowIcon": "$media:ncnn_icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

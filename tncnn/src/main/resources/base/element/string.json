@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "TncnnAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "TncnnAbility_label",
+      "value": "ncnn"
+    }
+  ]
+}
