@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Main",
+    "pages/CameraPage",
+    "pages/PhotoPage"
+  ]
+}
